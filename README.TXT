@@ -2,7 +2,7 @@
 obiettivo:
  - scrutinare tramite un algoritmo una serie di studenti dati i voti, stabilirne crediti.
 
-v1.0 Due 23/05/2023
+v1.0 per 23/05/2023
 
 avviare progetto:
 1. mkdir build

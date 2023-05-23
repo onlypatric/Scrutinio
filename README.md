@@ -1,13 +1,17 @@
 # Algoritmo-Scrutinio
+---
 obiettivo:
- - scrutinare tramite un algoritmo una serie di studenti dati i voti, stabilirne crediti.
-
-v1.0 Due 23/05/2023
+ - **scrutinare** tramite un algoritmo una serie di studenti dati i **voti**, stabilirne **crediti**.
+---
+v1.0 per 23/05/2023
+---
 
 avviare progetto:
-1. mkdir build
-2. javac *.java -d build
-3. cd build
-4. java App
+```bash
+mkdir build
+javac *.java -d build
+cd build
+java App
+```
 
-autore: Pintescul Patric
+autore: **Pintescul Patric**
